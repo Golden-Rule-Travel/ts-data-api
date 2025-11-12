@@ -1,3 +1,5 @@
+import "dotenv/config";
+
 import { envs } from "./envs";
 import { dataSourcesNames } from "./mdb";
 

@@ -19,6 +19,7 @@
   "author": "ArturGC",
   "license": "GPL-3.0-only",
   "dependencies": {
+    "dotenv": "^17.2.3",
     "h3": "1.15.3",
     "jsonwebtoken": "9.0.2",
     "mongodb": "6.17.0",
